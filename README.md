@@ -20,3 +20,5 @@ Gameplay video: https://shadow-raphaelc.github.io/projects/jankyfantasy.html
 - Vincent Lévesque: UI, VFX and sound effects
 
 Originally developed with Unity Version Control.
+
+Made with Unity 6.3 (6000.3.6f1).
